@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-a0l623.saturadar88win.cfd/sitemap.xml
